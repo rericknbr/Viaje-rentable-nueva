@@ -5,7 +5,6 @@
   },
   "build": {
     "development": {
-      "installCommand": "yarn install --production false --ignore-engines",
       "developmentClient": true,
       "distribution": "internal"
     },
