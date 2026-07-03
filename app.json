@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Viaje Rentable",
-    "slug": "viaje-rentable",
+    "slug": "viaje-rentable-nueva",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -69,13 +69,13 @@
       "reactCompiler": true
     },
     "extra": {
-      "eas": {
-        "projectId": "8f284f43-cdd4-451d-98f5-9b11f8fd5242"
-      },
       "router": {
         "origin": "https://replit.com/"
+      },
+      "eas": {
+        "projectId": "27f5a276-8d8a-4945-a12d-2de37bad3702"
       }
     },
-    "owner": "erickmxbr"
+    "owner": "rericknbr"
   }
 }
